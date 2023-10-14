@@ -1,1 +1,39 @@
-movie recommandation system using machine learning (content base recommendations)
+#Movie Recommendation System
+#Overview
+This project is a movie recommendation system that utilizes machine learning and cosine similarity to find and recommend movies that are similar to a given movie. It's implemented with Django for the backend and includes HTML and CSS for the user interface. The system is hosted on PythonAnywhere, making it accessible from anywhere with an internet connection.
+
+# Features
+1>Movie Recommendation: The system can recommend movies similar to a user's input, providing a personalized movie suggestion experience.
+
+2>Cosine Similarity: Movies are recommended based on cosine similarity, which calculates the distance between movies in a high-dimensional space.
+
+3>Django Web Interface: The user interface is built using Django, allowing users to interact with the recommendation system easily.
+
+3>Web Hosting on PythonAnywhere: The system is hosted on PythonAnywhere, providing easy access to users from anywhere in the world (https://khumapokharel.pythonanywhere.com/)
+
+#Technologies Used
+1>Machine Learning: Implemented with Python and scikit-learn for cosine similarity calculations.
+
+2>Django: Used to build the web application and provide a user-friendly interface.
+
+3>HTML and CSS: Designed for the frontend to create an appealing and responsive user experience.
+
+4>PythonAnywhere: The platform used for hosting the system.
+
+#Installation
+To run this project locally, follow these steps:
+
+1>Clone the repository to your local machine:
+2>Install the required dependencies:
+3>Start the Django development server:
+
+#Usage
+1>Choose the name of a movie you like.
+2>The system will calculate cosine similarity and recommend movies that are most similar to your input.
+
+#Contact
+For any questions or feedback, please feel free to contact us at khumapokharel2076@gmail.com.
+
+
+
+   
