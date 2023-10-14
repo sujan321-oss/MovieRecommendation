@@ -1,4 +1,4 @@
-#Movie Recommendation System
+# Movie Recommendation System
 #Overview
 This project is a movie recommendation system that utilizes machine learning and cosine similarity to find and recommend movies that are similar to a given movie. It's implemented with Django for the backend and includes HTML and CSS for the user interface. The system is hosted on PythonAnywhere, making it accessible from anywhere with an internet connection.
 
